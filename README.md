@@ -1,7 +1,7 @@
-<h1 style="color:#B78FC7";align="center">Hi 👋, I'm Zizzygirl!</h1>
-<h3 align="center">I am crazy-developer from Istanbul!</h3>
+<h1 style="color:#B78FC7" align="center">Hi 👋, I'm Zizzygirl!</h1>
+<h3 style="color:#B78FC7" align="center">I am crazy-developer from Istanbul!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zizzygirl&label=Profile%20views&color=0e75b6&style=flat" alt="zizzygirl" /> </p>
+<p style="color:#B78FC7" align="left"> <img src="https://komarev.com/ghpvc/?username=zizzygirl&label=Profile%20views&color=0e75b6&style=flat" alt="zizzygirl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zizzygirl" alt="zizzygirl" /></a> </p>
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **zizzygirl@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 style="color:#B78FC7" align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/serpil-ozdemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/serpil-ozdemir/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/s--ozdemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/serpil-ozdemir/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14396793/zizzygirl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14396793/zizzygirl" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ssserpilozdemir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/ssserpilozdemir" height="30" width="40" /></a>
 </p>
