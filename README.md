@@ -1,5 +1,5 @@
 <h1 style="color:#B78FC7" align="center">Hi 👋, I'm Zizzygirl!</h1>
-<h3 style="color:#B78FC7" align="center">I am crazy-developer from Istanbul!</h3>
+<h3 style="color:#B78FC7" align="center">I am junior developer from Istanbul!</h3>
 
 <p style="color:#B78FC7" align="left"> <img src="https://komarev.com/ghpvc/?username=zizzygirl&label=Profile%20views&color=0e75b6&style=flat" alt="zizzygirl" /> </p>
 
