@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zizzygirl" alt="zizzygirl" /></a> </p>
 
-- 🌱 I’m currently learning **javascript,CSS,HTML, Vue.js Framework**
+- 🤸‍♂️ I’m currently learning **javascript,CSS,HTML, Vue.js Framework**
 
-- 🤝 I’m looking for help with **pure javascript mini-projects**
+- 📌 Ask me about **anything that you want !**
 
-- 💬 Ask me about **anything that you want !**
-
-- 📫 How to reach me **zizzygirl@hotmail.com**
+- (☞ﾟヮﾟ)☞ How to reach me **zizzygirl@hotmail.com**
 
 <h3 style="color:#B78FC7" align="left">Connect with me:</h3>
 <p align="left">
