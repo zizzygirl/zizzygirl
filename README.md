@@ -9,7 +9,7 @@
 
 - 📌 Ask me about **anything that you want !**
 
-- (☞ﾟヮﾟ)☞ How to reach me **zizzygirl@hotmail.com**
+- (☞ﾟヮﾟ)☞ How to reach me **serpil.ozdemir@windowslive.com**
 
 <h3 style="color:#B78FC7" align="left">Connect with me:</h3>
 <p align="left">
