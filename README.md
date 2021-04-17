@@ -1,10 +1,6 @@
 <h1 style="color:#B78FC7" align="center">Hi 👋, I'm Serpil!</h1>
 <h3 style="color:#B78FC7" align="center">I am junior software developer from Istanbul!</h3>
 
-<p style="color:#B78FC7" align="left"> <img src="https://komarev.com/ghpvc/?username=zizzygirl&label=Profile%20views&color=0e75b6&style=flat" alt="zizzygirl" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zizzygirl" alt="zizzygirl" /></a> </p>
-
 - 🤸‍♂️ I’m currently learning **javascript,CSS,HTML, Vue.js Framework**
 
 - 📌 Ask me about **anything that you want !**
