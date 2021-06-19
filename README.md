@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sserpilozdemir" alt="sserpilozdemir" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,CSS,HTML,Vue.js. Swift**
+- 🌱 I’m currently learning **Swift**
 
 - 🤝 I’m looking for help with **pure javascript mini-projects**
 
