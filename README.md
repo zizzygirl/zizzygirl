@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 🤝 I’m looking for help with **pure javascript mini-projects**
-
 - 💬 Ask me about **anything that you want !**
 
 - 📫 How to reach me **serpil.ozdemir@windowslive.com**
